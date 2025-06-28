@@ -1,0 +1,5 @@
+id_transaksi,id_produk,jumlah,tanggal,nama_produk,kategori,harga
+T001,P001,2,2025-06-01,Produk A,Makanan,5000
+T002,P002,1,2025-06-01,Produk B,Minuman,7000
+T003,P001,1,2025-06-02,Produk A,Makanan,5000
+T004,P003,3,2025-06-03,Produk C,Sembako,10000
